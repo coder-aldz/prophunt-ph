@@ -9,22 +9,6 @@ Welcome to **Prophunt.ph**, a location-based property hunting web app inspired b
 - **Messaging** – Connect directly with sellers or agents.
 - **Leaderboard & Rewards** – Earn points for exploring new listings!
 
-## 🔧 Installation
-To run the project locally, follow these steps:
-1. Clone the repository:
-
-2. That sounds like an awesome project, Paul! A property-hunting web app with Pokémon GO-style mechanics? Super creative. Here’s a well-structured README file to get your repository looking sharp:
-# Prophunt.ph 🏡🔎
-
-Welcome to **Prophunt.ph**, a location-based property hunting web app inspired by Pokémon GO! Users can explore real-world properties for sale or lease through an interactive map, making the search for homes or investments more engaging than ever.
-
-## 🚀 Features
-- **Interactive Map** – Discover properties around you in real time.
-- **Augmented Reality (Optional)** – View property details in a gamified AR interface.
-- **Save & Compare** – Bookmark properties and compare key details.
-- **Messaging** – Connect directly with sellers or agents.
-- **Leaderboard & Rewards** – Earn points for exploring new listings!
-
 1. Clone the repository:
 git clone https://github.com/your-repo-name/prophunt.ph.git
 
