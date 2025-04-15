@@ -9,18 +9,8 @@ Welcome to **Prophunt.ph**, a location-based property hunting web app inspired b
 - **Messaging** – Connect directly with sellers or agents.
 - **Leaderboard & Rewards** – Earn points for exploring new listings!
 
-1. Clone the repository:
+## Clone the repository:
 git clone https://github.com/your-repo-name/prophunt.ph.git
-
-📂 Project Structure
-prophunt.ph/
-│── public/         # Static assets
-│── src/            # Source code
-│   ├── components/ # Reusable UI components
-│   ├── pages/      # App pages
-│   ├── services/   # API calls & utilities
-│── package.json    # Project dependencies
-│── README.md       # Project overview
 
 ## 🛠 Tech Stack
 - **Frontend:** React, Next.js
