@@ -12,9 +12,15 @@ Welcome to **Prophunt.ph**, a location-based property hunting web app inspired b
 1. Clone the repository:
 git clone https://github.com/your-repo-name/prophunt.ph.git
 
-## 📂 Project Structure
-
-prophunt.ph/ │── public/         # Static assets │── src/            # Source code │   ├── components/ # Reusable UI components │   ├── pages/      # App pages │   ├── services/   # API calls & utilities │── package.json    # Project dependencies │── README.md       # Project overview
+📂 Project Structure
+prophunt.ph/
+│── public/         # Static assets
+│── src/            # Source code
+│   ├── components/ # Reusable UI components
+│   ├── pages/      # App pages
+│   ├── services/   # API calls & utilities
+│── package.json    # Project dependencies
+│── README.md       # Project overview
 
 ## 🛠 Tech Stack
 - **Frontend:** React, Next.js
